@@ -1,6 +1,6 @@
 ## arduino_wordclock
 
-this repo contains code for a [QLOCKTWO](https://qlocktwo.com/de/)-style clock.
+this repo contains code for a [QLOCKTWO](https://qlocktwo.com/de/)-style clock with a German layout.
 There are two versions of code for differents hardware-attemps:
 
 <B>1: WS2812B based hardware</B> 
